@@ -1,1 +1,1 @@
-hasełko: siemanko
+hasełko: cel
